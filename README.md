@@ -16,8 +16,7 @@ Sections
 - Education & Interests
 - Footer
 
-Live Preview
-[You can view my portfolio here] (https://your-username.github.io/my-portfolio/)
+[You can view my portfolio here] (https://github.com/JaxCoreWes/WestonSmith-Potfolio);
 
 Contact
 Email: asmithweston85.email@example.com  
