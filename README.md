@@ -20,5 +20,5 @@ Live Preview
 [You can view my portfolio here] (https://your-username.github.io/my-portfolio/)
 
 Contact
-Email: asmithweston.email@example.com  
+Email: asmithweston85.email@example.com  
 GitHub: [@JaxCoreWes](https://github.com/your-username)
